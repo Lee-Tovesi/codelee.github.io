@@ -1,0 +1,21 @@
+*{
+    background-color: #faf2e4;
+    font-family:  'Montserrat', sans-serif;
+}
+img{
+    width: 250px;
+}
+h1{
+    margin-left: 10px;
+    font-weight: normal;
+    
+}
+h2{
+    margin-left: 10px;
+    color: #ff3636;
+    font-size: 1em;
+    
+}
+p{
+    margin-left: 10px;
+}
